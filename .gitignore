@@ -1,0 +1,14 @@
+# API 密钥
+.env
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# pytest 缓存
+.pytest_cache/
+
+# 虚拟环境
+venv/
+# SQLite数据库
+*.db
