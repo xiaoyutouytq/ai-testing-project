@@ -104,3 +104,8 @@ pytest -v tests/test_ai_quality.py --html=reports/ai_test_report.html --self-con
 - 掌握基础并发测试
 - 掌握 Token 鉴权测试
 - 掌握 pytest-html 测试报告生成
+## Git 学习记录
+
+- 已完成 Git 仓库初始化
+- 已完成 GitHub 项目上传
+- 已掌握 add、commit、push、pull
