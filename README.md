@@ -109,3 +109,5 @@ pytest -v tests/test_ai_quality.py --html=reports/ai_test_report.html --self-con
 - 已完成 Git 仓库初始化
 - 已完成 GitHub 项目上传
 - 已掌握 add、commit、push、pull
+- Git 分支练习
+
